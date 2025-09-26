@@ -3,7 +3,7 @@
 This document demonstrates how to format integers, floats, and strings in C99 and Python.
 Proper formatting ensures clear, readable output.
 
-> formatting output matters, as without it can make your work appear less import, and meaningful. Plus it is a very handle tool to use in software dev work, it will benefit you later in life.
+> formatting output matters, as without it can make your work appear less import, and meaningful. Plus it is a very handy tool to use in software dev work, it will benefit you later in life.
 
 <hr>
 
@@ -159,7 +159,7 @@ Hello   !
 Hello   !
 ```
 
-## Tables
+## Comparison Table
 
 | Type   | Example Code (C)           | Example Code (Python) | Output       |
 | ------ | -------------------------- | --------------------- | ------------ |
